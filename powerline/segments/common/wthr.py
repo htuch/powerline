@@ -73,18 +73,18 @@ weather_conditions_codes = (
 # ('sunny',  (32, 36)),
 # ('night',  (31, 33))):
 weather_conditions_icons = {
-	'day':           'DAY',
-	'blustery':      'WIND',
-	'rainy':         'RAIN',
-	'cloudy':        'CLOUDS',
-	'snowy':         'SNOW',
-	'stormy':        'STORM',
-	'foggy':         'FOG',
-	'sunny':         'SUN',
-	'night':         'NIGHT',
-	'windy':         'WINDY',
-	'not_available': 'NA',
-	'unknown':       'UKN',
+    "day":           "〇",
+    "blustery":      "⚑",
+    "rainy":         "☔",
+    "cloudy":        "☁",
+    "snowy":         "❅",
+    "stormy":        "☈",
+    "foggy":         "≡",
+    "sunny":         "☼",
+    "night":         "☾",
+    "windy":         "☴",
+    "not_available": "�",
+    "unknown":       "⚠"
 }
 
 temp_conversions = {
